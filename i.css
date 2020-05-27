@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	padding:0;
+}
+.top{
+	background-color:black;
+	height:36px;
+}
+.containner{
+	margin:0 auto;
+	width:1226px;
+	
+}
+.topleft{
+	float :left;
+}
+.topright{
+	float:right;
+}
+a{
+	text-decoration:none;
+}
+.top a{
+	color:white;
+	font-size:12px;
+}
+.top a:hover{
+	color:red;
+}
